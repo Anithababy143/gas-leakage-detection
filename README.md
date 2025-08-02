@@ -2,6 +2,21 @@
 A hardware-based safety system that detects harmful gas leaks in the environment and alerts the user through buzzer/alarm and notifications.  
 
 ---
+
+# Abstract 
+The petroleum sector involves hazardous environments where gases such as methane and carbon monoxide pose significant risks to worker safety. 
+This project proposes an embedded-based portable kit for monitoring methane and carbon monoxide gas levels, ensuring the safety of workers in the petroleum sector.
+
+The kit includes:
+- Gas sensors for detecting methane and carbon monoxide.
+- A portable embedded gateway device.
+- A cloud-based platform.
+- A dedicated mobile application.
+
+The sensors are portable and rugged, enabling real-time monitoring of gas concentrations in the work environment.
+
+---
+
 # 📖 Features
 - Detects hazardous gases (like LPG, Methane, CO) in real time  
 - Triggers buzzer alarm when gas concentration exceeds safe levels  

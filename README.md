@@ -17,14 +17,6 @@ The sensors are portable and rugged, enabling real-time monitoring of gas concen
 
 ---
 
-# 📖 Features
-- Detects hazardous gases (like LPG, Methane, CO) in real time  
-- Triggers buzzer alarm when gas concentration exceeds safe levels  
-- Displays alert on LCD / Serial Monitor  
-- Sends notification to user (optional IoT integration)  
-
----
-
 ## 🛠 Components Used
 | Component                | Quantity | Notes                                |
 |--------------------------|----------|--------------------------------------|
@@ -34,6 +26,14 @@ The sensors are portable and rugged, enabling real-time monitoring of gas concen
 | LCD Display (16x2)       | 1        | Gas level display                    |
 | Jumper Wires, Breadboard | -        | Circuit connections                  |
 | Power Supply (5V)        | 1        | Power source                         |
+
+---
+
+# 📖 Features
+- Detects hazardous gases (like LPG, Methane, CO) in real time  
+- Triggers buzzer alarm when gas concentration exceeds safe levels  
+- Displays alert on LCD / Serial Monitor  
+- Sends notification to user (optional IoT integration)  
 
 ---
 

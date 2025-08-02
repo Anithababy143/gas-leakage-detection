@@ -37,6 +37,27 @@ The sensors are portable and rugged, enabling real-time monitoring of gas concen
 
 ---
 
+## ▶️ Usage
+
+1. **Open Arduino IDE**
+   - Open the project code file (`firmware/main.ino`) in Arduino IDE  
+
+2. **Select Board & Port**
+   - Go to **Tools → Board** → Select *Arduino UNO* (or your board)  
+   - Go to **Tools → Port** → Select the COM Port where Arduino is connected  
+
+3. **Upload the Code**
+   - Click the **Upload** button to flash the code into the Arduino  
+
+4. **Power the Hardware**
+   - Connect power to the Arduino and the Gas Sensor  
+
+5. **Project Operation**
+   - **Normal condition** → LCD will display “Safe”  
+   - **Gas leak detected** → Buzzer will sound + LCD will display “Gas Leak Detected”  
+
+---
+
 # Circuit Diagram
 <img width="1278" height="728" alt="gps blockdiagram" src="https://github.com/user-attachments/assets/66b54de9-3271-4557-a4e2-acaef843283d" />
 
